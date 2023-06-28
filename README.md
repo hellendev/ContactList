@@ -1,7 +1,7 @@
 # ContactList
 
 ## Descrição
-ContactList é um aplicativo de lista de tarefas simples, desenvolvido como parte de um projeto pessoal de programação. Ele permite que os usuários criem listas de tarefas e as gerenciem de forma eficiente.
+ContactList é um aplicativo para gerenciar uma lista de contatos, desenvolvido como parte de um projeto pessoal de programação.
 
 O aplicativo foi desenvolvido utilizando as seguintes tecnologias:
 - [React Native](https://reactnative.dev): Biblioteca JavaScript para construir interfaces de usuário.
@@ -10,25 +10,26 @@ O aplicativo foi desenvolvido utilizando as seguintes tecnologias:
 - [CSS](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg): Linguagem de estilo para definir a aparência da aplicação.
 - [JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg): Linguagem de programação para a lógica e interação do aplicativo.
 
-O objetivo principal deste projeto é fornecer uma experiência de usuário simples e intuitiva para gerenciar listas de tarefas de maneira eficiente.
+O objetivo principal deste projeto é fornecer uma interface amigável e intuitiva para que os usuários possam adicionar, visualizar, editar e excluir contatos da lista.
 
 ## Recursos
-O aplicativo ContactList possui os seguintes recursos:
+A aplicação ContactList possui os seguintes recursos:
 
-### 1. Criação de listas de tarefas
-Os usuários podem criar várias listas de tarefas para organizar suas atividades.
+### 1. Adição de contatos
+Os usuários podem adicionar novos contatos à lista, inserindo informações como nome, número de telefone e endereço de e-mail.
 
-### 2. Adição de tarefas em uma lista
-Os usuários podem adicionar novas tarefas a uma lista existente, especificando o título da tarefa e uma descrição opcional.
+### 2. Visualização de contatos
+Os usuários podem visualizar a lista completa de contatos, exibindo detalhes como nome, número de telefone e endereço de e-mail.
 
-### 3. Edição e exclusão de tarefas
-Os usuários podem editar ou excluir tarefas existentes de uma lista. Eles podem atualizar o título, a descrição ou marcar uma tarefa como concluída.
+### 3. Edição de contatos
+Os usuários podem editar as informações de um contato existente, permitindo a atualização do nome, número de telefone e endereço de e-mail.
 
-### 4. Marcação de tarefas como concluídas
-Os usuários podem marcar tarefas como concluídas para indicar seu progresso. Tarefas concluídas serão exibidas de forma diferente na lista.
+### 4. Exclusão de contatos
+Os usuários podem excluir contatos da lista, removendo permanentemente suas informações da aplicação.
 
-### 5. Interface de usuário responsiva e agradável
-O aplicativo possui uma interface de usuário responsiva, que se adapta a diferentes tamanhos de tela e dispositivos. Ele também apresenta um design agradável e intuitivo para uma melhor experiência do usuário.
+### 5. Pesquisa de contatos
+Os usuários podem pesquisar contatos com base no nome ou em outras informações relacionadas, facilitando a localização de um contato específico na lista.
+
 
 
 ## Instalação
